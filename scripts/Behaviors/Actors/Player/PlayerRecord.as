@@ -149,7 +149,7 @@ class PlayerRecord
 	dictionary userdata;
 
 	uint8 peer;
-	uint64 id;
+	Guid id;
 	Actor@ actor;
 	bool local;
 
